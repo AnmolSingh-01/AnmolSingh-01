@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
                                      
 -  I’m currently pursuing MCA from TECHNO INDIA UNIVERSITY , WEST BENGAL & I love JavaScript , React JS , Node JS more than Girlfriend.
 -  Learning React JS, Node Js , JavaScript , MongoDB , Express JS & want to be a super hero in these technologies.
