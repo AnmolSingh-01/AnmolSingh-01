@@ -1,4 +1,6 @@
-  <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
+ <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> I'm Anmol <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
                                      
 -  I’m currently pursuing MCA from TECHNO INDIA UNIVERSITY , WEST BENGAL & I love JavaScript , React JS , Node JS more than spicy foods.
 -  Learning React JS, Node Js , JavaScript , MongoDB , Express JS & want to be a super hero in these technologies.
