@@ -18,6 +18,7 @@
  <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
   <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
  
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSingh-01&layout=compact)](https://github.com/AnmolSingh-01/github-readme-stats)
+
  
 
