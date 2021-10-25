@@ -14,7 +14,7 @@
     
  "Technologies on which either i'm working or learning ~ "
  
-  <a href="https://reactjs.org/" title="python"><img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" width="40px" height="40px"></a>
+  <a href="https://reactjs.org/" title="python"><img src="https://img.icons8.com/bubbles/50/000000/react.png" width="40px" height="40px"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>
  <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
   <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
