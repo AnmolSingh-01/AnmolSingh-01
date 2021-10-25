@@ -1,4 +1,4 @@
- <h1 align="center"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30" /> Hi, welcome! 
+ <h1 align="center"><img src="![image](https://user-images.githubusercontent.com/42077305/138762994-fdaba37e-d190-4149-871a-a6efaa086bd1.png)" width="30" /> Hi, welcome! 
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <h2> I'm Anmol <img src="" width="50"></h2>
                                      
