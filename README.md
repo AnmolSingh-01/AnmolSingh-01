@@ -5,7 +5,7 @@
 -  Looking for Internships / full time job related in the field of JavaScript , React , Node , MongoDB etc . Basically I wanna go to Full Stack Development Side
 -  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolSingh-01&show_icons=true&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolSingh-01&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSingh-01&langs_count=8)](https://github.com/AnmolSingh-01/github-readme-stats)
 
 
 
