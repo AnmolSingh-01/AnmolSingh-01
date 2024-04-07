@@ -2,9 +2,10 @@
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="210">
 <h2> I'm Anmol <img src="https://emojis.slackmojis.com/emojis/images/1465999900/516/success.png?1465999900" width="35"></h2>
                                      
--  I’m currently pursuing MCA from TECHNO INDIA UNIVERSITY , WEST BENGAL & I love JavaScript , React JS , Node JS more than spicy foods.
--  Learning React JS, Node Js , JavaScript , MongoDB , Express JS & want to be a super hero in these technologies.
--  Looking for Internships / full time job related in the field of JavaScript , React , Node , MongoDB etc . Basically I wanna go to Full Stack Development Side.
+-  I graduated with an MCA from TECHNO INDIA UNIVERSITY, WEST BENGAL, and I am enthusiastic about diving deep into data engineering tools and technologies.
+-  Currently employed as an Associate Solution Engineer at LabVantage Solution Pvt Ltd, Kolkata, where I leverage Java, JavaScript, Groovy, SQL, and other technologies to meet project requirements. Expanding my expertise, I am actively learning 
+   data engineering tools like SQL, Hadoop, Hive, PySpark, Apache Kafka, MongoDB, etc.
+-  Eagerly seeking opportunities in the field of data engineering to further advance my skills and contribute effectively to impactful projects.
  
    ![](https://komarev.com/ghpvc/?username=AnmolSingh-01&label=PROFILE+VIEWS)
  
