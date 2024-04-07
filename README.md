@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="210">
 <h2> I'm Anmol <img src="https://emojis.slackmojis.com/emojis/images/1465999900/516/success.png?1465999900" width="35"></h2>
                                      
--  I graduated with an MCA from TECHNO INDIA UNIVERSITY, WEST BENGAL, and I am enthusiastic about diving deep into data engineering tools and technologies.
+-  I did MCA from TECHNO INDIA UNIVERSITY, WEST BENGAL, and I am enthusiastic about diving deep into data engineering tools and technologies.
 -  Currently employed as an Associate Solution Engineer at LabVantage Solution Pvt Ltd, Kolkata, where I leverage Java, JavaScript, Groovy, SQL, and other technologies to meet project requirements. Expanding my expertise, I am actively learning 
    data engineering tools like SQL, Hadoop, Hive, PySpark, Apache Kafka, MongoDB, etc.
 -  Eagerly seeking opportunities in the field of data engineering to further advance my skills and contribute effectively to impactful projects.
